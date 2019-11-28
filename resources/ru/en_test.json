@@ -1,10 +1,10 @@
 {
   "header": {
-    "wallet": "",
-    "new_story": "",
-    "publications": "",
-    "profile": "",
-    "log_out": "",
+    "wallet": "Кошелек",
+    "new_story": "Новая история",
+    "publications": "Публикации",
+    "profile": "Профиль",
+    "log_out": "Выйти",
     "results": "",
     "all": "",
     "stories": "",
@@ -16,7 +16,7 @@
     "clear": ""
   },
   "publication": {
-    "publications": "",
+    "publications": "Публикации",
     "invitations": "",
     "create": "",
     "drop_upload": "",
